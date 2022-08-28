@@ -60,4 +60,4 @@ Ouvrez `index.html` avec un éditeur de texte, ajoutez les infos suivantes:
 1. Dans l'onglet "Deployed Contracts" copier l'adresse du contrat et remplacez celle dans le html par la votre
 2. Dans l'onglet "Solidity Compiler" copier l'ABI en cliquant sur le bouton en bas de la section et remplacer dans le html
 
-# ** C'est terminé vous pouvez tester le dApp **
+**C'est terminé vous pouvez tester le dApp**
