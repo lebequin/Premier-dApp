@@ -1,4 +1,4 @@
-# Create An Ethereum Dapp with Ethersjs
+# Création d'un dApp Ethereum avec Ethersjs
 
 Ce projet a pour objectif de découvir le fonctionnement basique d'un dApp en intéragissant avec un smart contrat permettant d'envoyer et de récupérer une chaine de caractère.
 
@@ -34,7 +34,7 @@ Pour lancer le prjet il faut tout d'abord:
 1. Vous pouvez utiliser l'éditeur de votre choix mais l'IDE en ligne remix sera utiliser pour faire fonctionner notre dApp [remix.ethereum.org]
    - Vidéo explicative du fonctionnement de Remix [voir plus](https://www.youtube.com/watch?v=pdJttvcAV1c)
 3. Clicker sur les onglets "Solidity Compiler" et "Deploy and Run Transactions"
-4. Créer un nouveau fichier solidity dans remix, named `mood.sol`
+4. Créer un nouveau fichier solidity dans remix, nommé `mood.sol`
 5. Copier coller le code fourni dans le répertoire contrat
 6. Déployer le contrat sur Ropsten Testnet. 
    - S'assurer que Metamsk est connecté sur le testnet Ropsen
@@ -44,12 +44,6 @@ Pour lancer le prjet il faut tout d'abord:
    - Sous la section "Deployed Contracts", vous pouvez tester que le contrat fonctionne correctement.
 
 ***Déployez bien sur Ropsten via Remix avec l'environnement `Injected Web3` et confirmez la transaction dans Metamask***
-
-Make a new temporary file to hold:
-   - The deployed contract's address
-      - Copy it via the copy button next to the deployed contracts pulldown in remix's **Run** tab
-   - The contract ABI ([what is that?](https://solidity.readthedocs.io/en/develop/abi-spec.html))
-      - Copy it via the copy button under to the contract in remix's **Compile** tab (also in Details)
 
 ---
 
